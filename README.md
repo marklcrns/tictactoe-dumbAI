@@ -1,2 +1,3 @@
 # tictactoe-dumbAI
-Tictactoe with dumbAI made with JS
+
+Simple Tictactoe with random generating move AI
